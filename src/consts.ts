@@ -10,7 +10,7 @@ export const DATE_FORMAT = "ddd MMM DD YYYY";
 // User profile information
 export const USER_NAME = "我是HuangQ";
 export const USER_SITE = "https://hqblog.edgeone.app"
-export const USER_AVATAR = "/profile.webp";
+export const USER_AVATAR = "/profit.jpg";
 
 // Server and transition settings
 export const SERVER_URL = "https://hqblog.edgeone.app";
@@ -66,7 +66,7 @@ export const menuItems = [
   {
     id: "contact",
     text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
+    href: "mailto:contact.1@outlook.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "contact",
   },
