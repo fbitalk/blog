@@ -2,13 +2,13 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_TAB = "Frosti";
-export const SITE_TITLE = "Frosti 🧊";
+export const SITE_TAB = "HuangQ";
+export const SITE_TITLE = "HuangQ 🧊";
 export const SITE_DESCRIPTION = "A blog template";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "EveSunMaple";
+export const USER_NAME = "我是HuangQ";
 export const USER_SITE = "https://frosti.saroprock.com"
 export const USER_AVATAR = "/profile.webp";
 
