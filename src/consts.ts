@@ -9,11 +9,11 @@ export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
 export const USER_NAME = "我是HuangQ";
-export const USER_SITE = "https://frosti.saroprock.com"
+export const USER_SITE = "https://ip.com"
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+export const SERVER_URL = "https://ip.com";
 
 // Menu items for navigation
 export const menuItems = [
