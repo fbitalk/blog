@@ -2,9 +2,9 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_TAB = "HQ Blog";
-export const SITE_TITLE = "HQ Blog 🧊";
-export const SITE_DESCRIPTION = "A blog build by HuangQ";
+export const SITE_TAB = "HQstar";
+export const SITE_TITLE = "HQstar 🧊";
+export const SITE_DESCRIPTION = "A web build by HuangQ";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
