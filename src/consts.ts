@@ -13,7 +13,7 @@ export const USER_SITE = "https://hqblog.edgeone.app"
 export const USER_AVATAR = "/profit.jpg";
 
 // Server and transition settings
-export const SERVER_URL = "https://hqblog.edgeone.app";
+export const SERVER_URL = "https://my-waline-eosin-one.vercel.app";
 
 // Menu items for navigation
 export const menuItems = [
