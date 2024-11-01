@@ -2,18 +2,18 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_TAB = "HuangQ";
-export const SITE_TITLE = "HuangQ 🧊";
-export const SITE_DESCRIPTION = "A blog template";
+export const SITE_TAB = "HQ Blog";
+export const SITE_TITLE = "HQ Blog 🧊";
+export const SITE_DESCRIPTION = "A blog build by HuangQ";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
 export const USER_NAME = "我是HuangQ";
-export const USER_SITE = "https://ip.com"
+export const USER_SITE = "https://hqblog.edgeone.app"
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
-export const SERVER_URL = "https://ip.com";
+export const SERVER_URL = "https://hqblog.edgeone.app";
 
 // Menu items for navigation
 export const menuItems = [
